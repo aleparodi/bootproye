@@ -15,7 +15,7 @@ header {
     border-bottom: #3fbbc0 solid 2px;
 }
 
-.botonera {
+/*.botonera {
     margin-right: 20px;
 }
 
@@ -29,6 +29,13 @@ header {
     text-transform: uppercase;
     font-weight: bold;
     color: #262424;
+}
+*/
+.letra {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
 }
 
 .logo {
